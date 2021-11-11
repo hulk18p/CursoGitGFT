@@ -1,6 +1,6 @@
 ## Committing changes I
 
-
+aaaa
  1. Make a change and commit (commit1)  
  
     <pre>
